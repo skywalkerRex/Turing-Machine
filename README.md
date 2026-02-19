@@ -1,5 +1,5 @@
-# Tuning-Machine
-This project is to replicate the tuning machine mention in book "The Emperor's New Mind"
+# Turing-Machine
+This project is to replicate the Turing machine mentioned in book "The Emperor's New Mind"
 
 ## Build Instructions
 
@@ -22,7 +22,7 @@ cmake ..
 make
 
 # Run the executable
-./bin/tuning_machine
+./bin/turing_machine
 ```
 
 ### Project Structure
